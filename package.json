@@ -1,0 +1,25 @@
+{
+  "name": "Tailwind-pactice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BHamp/Tailwind-pactice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BHamp/Tailwind-pactice/issues"
+  },
+  "homepage": "https://github.com/BHamp/Tailwind-pactice#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.5",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.5.2"
+  }
+}
